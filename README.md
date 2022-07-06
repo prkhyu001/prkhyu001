@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-#Hyunjoo | 주니어 개발자 🌱
+<h1 align="center">✨ Hyunjoo | 주니어 개발자 🌱 ✨</h3>&nbsp
 
 <p align="center">🇰🇷</p>
 
@@ -50,12 +49,8 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 📫 Me 📫 </h3>
 <p align="center">
-  <a href="https://velog.io/@woo0_hooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/prkhyu001/222788595356"/></a>&nbsp
-  <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hjoo_park/"/></a>&nbsp
-  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mdlhyunjoo@gmail.com"/></a>
+  <a href="https://blog.naver.com/prkhyu001/222788595356"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/prkhyu001/222788595356"/></a>&nbsp
+  <a href="https://www.instagram.com/hjoo_park/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hjoo_park/"/></a>&nbsp
+  <a href="mailto:mdlhyunjoo@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mdlhyunjoo@gmail.com"/></a>
 </p>
 <br>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-</p>
