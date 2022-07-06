@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **prkhyu001/prkhyu001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-![header]Hyunjoo | 주니어 개발자 🌱
+#Hyunjoo | 주니어 개발자 🌱
 
 <p align="center">🇰🇷</p>
 
-<h3 align="center">🛠 Tech Stack🔭 🛠</h3>
+<h3 align="center">🛠 Tech Stack🔭 🛠</h3>&nbsp
 
-<p align="center"> Techs that I have experience with </p>
+<p align="center"> Techs that I have experience with </p>&nbsp
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -42,9 +42,7 @@ Here are some ideas to get you started:
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://velog.io/@woo0_hooo)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo)
-  
+
 </div>
   
 <br>
