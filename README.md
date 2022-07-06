@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">🇰🇷</p>
 
-<h3 align="center">🛠 Tech Stack🔭 🛠</h3>&nbsp
+<h3 align="center">🔭 Tech Stack 🔭</h3>&nbsp
 
 <p align="center"> Techs that I have experience with </p>&nbsp
 
@@ -40,16 +40,13 @@ Here are some ideas to get you started:
 <h3 align="center">✨ Blog💬 ✨</h3>
 
 <div align="center" style="text-align:center">
-  
-
+    <a href="https://blog.naver.com/prkhyu001/222788595356"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/prkhyu001/222788595356"/></a>&nbsp
 </div>
   
 <br>
 
-
 <h3 align="center"> 📫 Me 📫 </h3>
 <p align="center">
-  <a href="https://blog.naver.com/prkhyu001/222788595356"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/prkhyu001/222788595356"/></a>&nbsp
   <a href="https://www.instagram.com/hjoo_park/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hjoo_park/"/></a>&nbsp
   <a href="mailto:mdlhyunjoo@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mdlhyunjoo@gmail.com"/></a>
 </p>
