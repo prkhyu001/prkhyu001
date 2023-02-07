@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <h3 align="center">✨ Blog💬 ✨</h3>
 
 <div align="center" style="text-align:center">
-    <a href="https://blog.naver.com/prkhyu001/222788595356"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/prkhyu001/222788595356"/></a>&nbsp
+    <a href="https://hyunjoo-the-prob-solver.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/prkhyu001/222788595356"/></a>&nbsp
 </div>
   
 <br>
