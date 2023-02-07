@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">✨ Hyunjoo | 주니어 개발자 🌱 ✨</h3>&nbsp
+<h1 align="center">✨ Hyun Joo Park ✨</h3>&nbsp
 
 <p align="center">🇰🇷</p>
 
