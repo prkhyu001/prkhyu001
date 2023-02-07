@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">✨ Hyun Joo Park ✨</h3>&nbsp
 
-<p align="center">🇰🇷</p>
-
 <h3 align="center">🔭 Tech Stack 🔭</h3>&nbsp
 
 <p align="center"> Techs that I have experience with </p>&nbsp
